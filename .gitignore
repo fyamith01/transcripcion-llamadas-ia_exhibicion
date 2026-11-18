@@ -1,0 +1,11 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Salidas generadas por el ejemplo
+ejemplo/salida/
+
+# Documento de trabajo interno (no se publica)
+odd/
